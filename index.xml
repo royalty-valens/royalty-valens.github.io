@@ -1,36 +1,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communist Literature Club</title>
-    <link>http://localhost:1313/</link>
+    <link>https://royalty-valens.github.io/</link>
     <description>Recent content on Communist Literature Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2025 AEER</copyright>
-    <lastBuildDate>Sun, 22 Jun 2025 02:31:42 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://royalty-valens.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>On the Importance of Literature</title>
-      <link>http://localhost:1313/posts/on-the-importance-of-literature/</link>
-      <pubDate>Sun, 22 Jun 2025 02:31:42 -0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/on-the-importance-of-literature/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous summits.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;Karl Marx&lt;/em&gt;, Capital Vol. I, Preface to the French Edition (1887)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The Marxist doctrine is omnipotent because it is true. It is comprehensive and harmonious, and provides men with an integral world outlook irreconcilable with any form of superstition, reaction, or defence of bourgeois oppression.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;V. I. Lenin&lt;/em&gt;, The Three Sources and Three Component Parts of Marxism (1913)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Generally speaking, all Communist Party members who can do so should study the theory of Marx, Engels, Lenin and Stalin, study our national history and study current movements and trends; moreover, they should help to educate members with less schooling.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;Mao Zedong&lt;/em&gt;, The Role of the Chinese Communist Party in the National War, Study (October 1938)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;There were political terms difficult to understand in this [Lenin&amp;rsquo;s Thesis on the national and colonial questions] thesis. But by dint of reading it again and again, finally I could grasp the main part of it. What emotion, enthusiasm, clear-sightedness and confidence it instilled into me!&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;Ho Chi Minh&lt;/em&gt;, The Path Which Led Me To Leninism (1960)&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

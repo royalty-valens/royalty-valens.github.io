@@ -1,45 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Communist Literature Club</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://royalty-valens.github.io/categories/</link>
     <description>Recent content in Categories on Communist Literature Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2025 AEER</copyright>
     
-        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://royalty-valens.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>On the Importance of Literature</title>
-      <link>http://localhost:1313/posts/on-the-importance-of-literature/</link>
-      <pubDate>Sun, 22 Jun 2025 02:31:42 -0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/on-the-importance-of-literature/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous summits.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;Karl Marx&lt;/em&gt;, Capital Vol. I, Preface to the French Edition (1887)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The Marxist doctrine is omnipotent because it is true. It is comprehensive and harmonious, and provides men with an integral world outlook irreconcilable with any form of superstition, reaction, or defence of bourgeois oppression.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;V. I. Lenin&lt;/em&gt;, The Three Sources and Three Component Parts of Marxism (1913)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;There is a certain behavior I have seen, online and in person from close friends, which dismisses the necessity of reading Marxist literature themselves.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Generally speaking, all Communist Party members who can do so should study the theory of Marx, Engels, Lenin and Stalin, study our national history and study current movements and trends; moreover, they should help to educate members with less schooling.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;Mao Zedong&lt;/em&gt;, The Role of the Chinese Communist Party in the National War, Study (October 1938)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;My own feelings of inadequacy.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Theory is the experience of the working-class movement in all countries taken in its general aspect. Of course, theory becomes purposeless if it is not connected with revolutionary practice, just as practice gropes in the dark if its path is not illumined by revolutionary theory. But theory can become a tremendous force in the working-class movement if it is built up in indissoluble connection with revolutionary practice; for theory, and theory alone, can give the movement confidence, the power of orientation, and an understanding of the inner relation of surrounding events; for it, and it alone, can help practice to realise not only how and in which direction classes are moving at the present time, but also how and in which direction they will move in the near future.&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;J. Stalin&lt;/em&gt;, The Foundations of Leninism (1953)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;If we are not learning we are not Marxists!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;There were political terms difficult to understand in this [Lenin&amp;rsquo;s Thesis on the national and colonial questions] thesis. But by dint of reading it again and again, finally I could grasp the main part of it. What emotion, enthusiasm, clear-sightedness and confidence it instilled into me!&lt;/p&gt;
-&lt;p&gt;—&lt;em&gt;Ho Chi Minh&lt;/em&gt;, The Path Which Led Me To Leninism (1960)&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
