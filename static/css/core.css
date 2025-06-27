@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Vollkorn+SC:wght@400;600;700;900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* Variables */
+:root {
+    --paper-color: #fbf5ef;
+    --ink-color: #3d3945;
+    --hilite-color: #e8e1d1;
+    --ink2-color: #b52137;
+}
+
+/* Typography */
+html {
+
+    margin: 1em 5em;
+    background-color: var(--paper-color);
+
+    font-family: "Vollkorn", Georgia, Times, serif;
+    font-size: 1.2rem;
+    font-optical-sizing: auto;
+    line-height: 1.45;
+    color: var(--ink-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Libre Franklin", Helvetica, Arial, sans-serif;
+    font-weight: 200;
+}
+
+time {
+    font-style: italic;
+}
+
+a {
+    text-transform: lowercase;
+    font-family: "Vollkorn SC", Georgia, Times, serif;
+    text-decoration: none;
+    color: inherit;
+    border-radius: 4px;
+    transition-property: background-color;
+    transition-duration: .75s;
+}
+
+a:hover {
+    background-color: var(--hilite-color);
+    border-radius: 4px;
+}
+
+a.source:after {
+    content: "° ";
+    color: var(--ink2-color);
+}
