@@ -10,8 +10,6 @@
 
 /* Typography */
 html {
-
-    margin: 1em 5em;
     background-color: var(--paper-color);
 
     font-family: "Vollkorn", Georgia, Times, serif;
@@ -19,6 +17,15 @@ html {
     font-optical-sizing: auto;
     line-height: 1.45;
     color: var(--ink-color);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5rem;
+    max-width: 500px;
+}
+
+footer {
+    font-size: .7rem;
+    text-align: right;
 }
 
 h1,
@@ -29,6 +36,10 @@ h5,
 h6 {
     font-family: "Libre Franklin", Helvetica, Arial, sans-serif;
     font-weight: 200;
+}
+
+h1 {
+    color: var(--ink2-color);
 }
 
 time {
@@ -48,6 +59,11 @@ a {
 a:hover {
     background-color: var(--hilite-color);
     border-radius: 4px;
+}
+
+a.source {
+    text-transform: none;
+    font-family: "Vollkorn", Georgia, Times, serif;
 }
 
 a.source:after {
