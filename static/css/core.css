@@ -1,4 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Vollkorn+SC:wght@400;600;700;900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("/static/fonts/InterVariable.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("/static/fonts/InterVariable-Italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Vollkorn;
+    font-style: normal;
+    font-display: swap;
+    src: url("/static/fonts/Vollkorn-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Vollkorn;
+    font-style: italic;
+    font-display: swap;
+    src: url("/static/fonts/Vollkorn-Italic.woff2") format("woff2");
+}
 
 /* Variables */
 :root {
@@ -34,7 +62,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Libre Franklin", Helvetica, Arial, sans-serif;
+    font-family: "Inter", Helvetica, Arial, sans-serif;
     font-weight: 200;
 }
 
@@ -46,9 +74,11 @@ time {
     font-style: italic;
 }
 
+/* Links */
 a {
     text-transform: lowercase;
-    font-family: "Vollkorn SC", Georgia, Times, serif;
+    font-family: "Vollkorn", Georgia, Times, serif;
+    font-variant: small-caps;
     text-decoration: none;
     color: inherit;
     border-radius: 4px;
@@ -63,6 +93,7 @@ a:hover {
 
 a.source {
     text-transform: none;
+    font-variant: normal;
     font-family: "Vollkorn", Georgia, Times, serif;
 }
 
