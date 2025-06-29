@@ -39,7 +39,8 @@
 /* Typography */
 html {
     background-color: var(--paper-color);
-
+    hyphens: auto;
+    text-align: justify;
     font-family: "Vollkorn", Georgia, Times, serif;
     font-size: 1.2rem;
     font-optical-sizing: auto;
@@ -48,7 +49,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 2.5rem;
-    max-width: 500px;
+    max-width: 600px;
 }
 
 footer {
@@ -72,6 +73,13 @@ h1 {
 
 time {
     font-style: italic;
+}
+
+blockquote {
+    margin-left: 3em;
+    margin-right: 3em;
+    font-size: .9rem;
+    line-height: 1.15;
 }
 
 /* Links */
