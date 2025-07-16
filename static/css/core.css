@@ -1,31 +1,31 @@
 @font-face {
-    font-family: Inter;
+    font-family: Header;
     font-style: normal;
     font-weight: 100 900;
     font-display: swap;
-    src: url("/static/fonts/InterVariable.woff2") format("woff2");
+    src: url("/static/fonts/Piazzolla-Regular.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Inter;
+    font-family: Header;
     font-style: italic;
     font-weight: 100 900;
     font-display: swap;
-    src: url("/static/fonts/InterVariable-Italic.woff2") format("woff2");
+    src: url("/static/fonts/Piazzolla-Italic.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Vollkorn;
+    font-family: Body;
     font-style: normal;
     font-display: swap;
-    src: url("/static/fonts/Vollkorn-Regular.woff2") format("woff2");
+    src: url("/static/fonts/Piazzolla-Regular.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: Vollkorn;
+    font-family: Body;
     font-style: italic;
     font-display: swap;
-    src: url("/static/fonts/Vollkorn-Italic.woff2") format("woff2");
+    src: url("/static/fonts/Piazzolla-Regular.woff2") format("woff2");
 }
 
 /* Variables */
@@ -41,7 +41,7 @@ html {
     background-color: var(--paper-color);
     hyphens: auto;
     text-align: justify;
-    font-family: "Vollkorn", Georgia, Times, serif;
+    font-family: "Body", Georgia, Times, serif;
     font-size: 1.2rem;
     font-optical-sizing: auto;
     line-height: 1.45;
@@ -63,7 +63,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Inter", Helvetica, Arial, sans-serif;
+    font-family: "Header", Helvetica, Arial, sans-serif;
     font-weight: 200;
 }
 
@@ -85,7 +85,7 @@ blockquote {
 /* Links */
 a {
     text-transform: lowercase;
-    font-family: "Vollkorn", Georgia, Times, serif;
+    font-family: "Body", Georgia, Times, serif;
     font-variant: small-caps;
     text-decoration: none;
     color: inherit;
@@ -102,7 +102,7 @@ a:hover {
 a.source {
     text-transform: none;
     font-variant: normal;
-    font-family: "Vollkorn", Georgia, Times, serif;
+    font-family: "Body", Georgia, Times, serif;
 }
 
 a.source:after {
