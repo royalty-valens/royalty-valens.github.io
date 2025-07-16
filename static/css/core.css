@@ -25,7 +25,7 @@
     font-family: Body;
     font-style: italic;
     font-display: swap;
-    src: url("/static/fonts/Piazzolla-Regular.woff2") format("woff2");
+    src: url("/static/fonts/Piazzolla-Italic.woff2") format("woff2");
 }
 
 /* Variables */
@@ -80,6 +80,17 @@ blockquote {
     margin-right: 3em;
     font-size: .9rem;
     line-height: 1.15;
+}
+
+hr.dink {
+    border: none;
+    text-align: center;
+    color: var(--ink2-color);
+    font-size: 1.5rem;
+}
+
+hr.dink::after {
+    content: "* * *";
 }
 
 /* Links */
